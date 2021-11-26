@@ -1,0 +1,59 @@
+Starfsmaður Work request:
+---------------------------------------------------------------------------------------
+|   Enter your ID: 1424                                                               
+|                                                                                     
+|       Menu:                                                                        
+|        1. Work request                                                              
+|        2. Contractors                                                               
+|        3. Housing                                                                   
+|        Q. Log out                                                                   
+|                                                                                     
+|           Enter number: 1                                                           
+---------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------
+|       Work requests:
+|        1. All work requests
+|        2. Search by ID
+|        3. Search by date
+|        4. Your open requests
+|        5. Finished request
+|        Q. Back
+|
+|           Enter number: 1
+---------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------
+           All work requests:
+       Hér kemur listi af öllum verkefnum sem eru opin, forgangsraðað. 
+       Til þess að fara í verkbeiðnina kemur:
+
+        Work request id(blabla):
+            54. Grænlandsgata 32, High.
+            72. Koparteigur 12, Medium.
+            12. Listahagi 3, Low.
+            25. ...
+
+            Enter Work request ID: 54
+            Grænlandsgata 32: lýsing á verkbeðni.
+
+                Viltu velja þessa verkbeðni (y/n): y
+
+                    Work request description: Laga leka inná baði...
+
+                    Viltu loka þessari beðni (y/n): y
+---------------------------------------------------------------------------------------
+Þegar starfsmaður lokar verkbeðni þá fer hann í næsta glugga til að skrifa verkskýrslu.
+---------------------------------------------------------------------------------------
+        Work request ID: 54, Grænlandsgata 32
+        regular/irregular maintenance (R/I): I
+        Work description: Ég lagaði leka inná baði...
+        Time: 4 klst
+        Contractor cost: 10.000                                                         # ef það er 0 er enginn contractor 
+        Other costs: 8.000                                                              # kostnaður á efni og fleira sem starfsmaður keypti
+        Employee ID: 1424
+
+        Klára skýrslu (y/n): y
+---------------------------------------------------------------------------------------
+Þegar starfsmaður klárar skýrslu sendir hann skýrsluna til yfirmanns til að loka henni algjörlega.
+---------------------------------------------------------------------------------------

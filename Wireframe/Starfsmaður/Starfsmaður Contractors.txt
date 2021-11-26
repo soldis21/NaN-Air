@@ -1,0 +1,32 @@
+Starfsmaður upplýsingar um verktaka
+---------------------------------------------------------------------------------------
+        Menu:                                                                        
+        1. Work request                                                              
+        2. Contractors                                                               
+        3. Housing                                                                   
+        Q. Log out                                                                   
+                                                                                     
+           Enter number: 2                                                           
+---------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------
+        Contractors: 
+        1. Viðgerðir Palla | Pípari
+        2. Þakviðgerðir Magga | Þakviðgerðir
+        3. Bubbi byggir ehf. | smiður
+        4. máling og eh fleira. | málari
+
+            Enter number: 1
+---------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------
+            Contractor: Viðgerðir Palla
+            Phone: 5812345
+            Name: Palli Palli Pallason
+            Opening Hours: 8:30 - 16:30
+            Location: Grænlandsgata 68
+            Profession: Pípari
+            Rating: 1/10
+
+            Q. back
+---------------------------------------------------------------------------------------
